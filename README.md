@@ -1,4 +1,4 @@
-# EthereumAPI
+# Ethereum API
 
 The source of pseudo-random number on the Ethereum Blockchain.
 
