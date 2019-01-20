@@ -26,7 +26,7 @@ SOFTWARE.
 
 */
 
-pragma solidity >= 0.5.0; // Compiler version incompatible error!
+pragma solidity >= 0.4.0; // Compiler version incompatible error!
 
 contract niguezRandomityEngine {
 
